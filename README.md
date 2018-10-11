@@ -26,9 +26,7 @@ This repository contains eight main branches:
 * branch `seven`, for students who are assigned to grouping 7
 * branch `eight`, for students who are assigned to grouping 8
 
-plus the master branch which contains this README.md file.
-
-Select one of the eight branches, and begin to solve each notebook following the ordering of the filenames (from 1 to 2). 
+plus the master branch which contains this README.md file. Select one of the eight branches, and begin to solve each notebook following the ordering of the filenames (from 1 to 2). 
 
 ## Your sequence of solving the workbooks should be the following. 
 * 1_attempt1.ipynb
@@ -36,7 +34,7 @@ Select one of the eight branches, and begin to solve each notebook following the
 * 2_attempt1.ipynb
 * 2_attempt2.ipynb
 
-**Please strictly follow this order**
+**Please strictly follow this order!!**
 
 Depending on how you use `git` (i.e., command line, GUI tool, etc.), there are multiple ways to switch branches. As a last resort, you can clone a specific branch with the following command:
 ```
