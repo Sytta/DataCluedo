@@ -36,7 +36,7 @@ plus the master branch which contains this README.md file. Select one of the eig
 
 **Please strictly follow this order!!**
 
-Depending on how you use `git` (i.e., command line, GUI tool, etc.), there are multiple ways to switch branches. As a last resort, you can clone a specific branch with the following command:
+Depending on how you use `git` (i.e., command line, GUI tool, etc.), there are multiple ways to switch branches. You can always clone a specific branch with the following command:
 ```
 git clone <url of repo> -b <branch name to be cloned>
 e.g., git clone https://github.com/epfl-ada/DataCluedo.git -b two
