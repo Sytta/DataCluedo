@@ -18,11 +18,18 @@ In order not to tamper with the results of the analysis, please **follow strictl
 
 ## Getting Started
 This repository contains two main branches:
-* an `even` branch, for students whose SCIPER number is even
-* an `odd` branch, for students whose SCIPER number is odd 
+* branch number 1, for students who are assigned to group 1
+* branch number 2, for students who are assigned to group 2
+* branch number 3, for students who are assigned to group 3
+* branch number 4, for students who are assigned to group 4
+* branch number 5, for students who are assigned to group 5
+* branch number 6, for students who are assigned to group 6
+* branch number 7, for students who are assigned to group 7
+* branch number 8, for students who are assigned to group 8
 
 plus the master branch which contains this README.md file.
-Given your SCIPER number (which you can find easily also on your Camipro card), select one of the two branches, and begin to solve each notebook following the ordering of the filenames (from 1 to 4).
+
+Select one of the eight branches according to your assigned grouping, and begin to solve each notebook following the ordering of the filenames (from 1_attempt1, 1_attempt2 to 2_attempt1, 2_attempt2).
 Depending on how you use `git` (i.e., command line, GUI tool, etc.), there are multiple ways to switch branches. As usual, Google is your friend :)
 
 As a last resort, you can clone a specific branch with the following command:
@@ -32,6 +39,9 @@ e.g., git clone https://github.com/epfl-ada/DataCluedo.git -b even
 ```
 
 ## Submit your solutions
-Once you are done, you can submit your solutions [using this form](https://goo.gl/forms/kHtKZrISLwvZgGiC3)
+Once you are done, 
 
-We recommend you to work on the notebooks in order (i.e., they are numbered from 1 to 4) and submit as many as you can by the end of the lab session. In case you won't be able to complete all of them, please submit regardless. We will keep the form open for an additional day or two, so you can update your submission later on (as the submission form supports updates and edits).
+(i) you can submit your solutions for attempt 1 [using this form](https://goo.gl/forms/vANWUZRVozLlZPnd2)
+(ii) you can submit your solutions for attempt 2 [using this form](https://goo.gl/forms/5cnCf4wUkS1sAkYg1)
+
+We recommend you to work on the notebooks in order (i.e., they are numbered from 1 to 2) and submit as many as you can by the end of the lab session. In case you won't be able to complete all of them, please submit regardless. We will keep the form open for an additional day or two, so you can update your submission later on (as the submission form supports updates and edits).
