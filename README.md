@@ -11,8 +11,8 @@ Also, your performance on DataCluedo **will not count towards your final ADA gra
 
 DataCluedo is a small collection of iPython Notebooks, where the data scientist faces seemingly trivial analysis tasks. Most of the analysis is already included in the notebook, so the main effort goes towards reading carefully the instructions, and writing no more than a handful lines of code per notebook. Each notebook is split in 3 sections:
 1. an initial set of pre-filled cells, that the data scientist should evaluate just to load the needed variables and modules in memory
-2. **Attempt 1** a middle section (with at least an empty cell) where the data scientist can perform the initial analysis
-3. **Attempt 2** a closing section, where the data scientist has the opportunity to present a new analysis (if deemed necessary).
+2. **Attempt 1 -->** a middle section (with at least an empty cell) where the data scientist can perform the initial analysis
+3. **Attempt 2 -->** a closing section, where the data scientist has the opportunity to present a new analysis (if deemed necessary).
 
 
 ## Getting Started
