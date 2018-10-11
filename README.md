@@ -17,7 +17,7 @@ DataCluedo is a small collection of iPython Notebooks, where the data scientist 
 In order not to tamper with the results of the analysis, please **follow strictly the order of the cells, without reading in advance the whole notebook**.
 
 ## Getting Started
-This repository contains two main branches:
+This repository contains eight main branches:
 * branch number 1, for students who are assigned to group 1
 * branch number 2, for students who are assigned to group 2
 * branch number 3, for students who are assigned to group 3
@@ -41,7 +41,7 @@ e.g., git clone https://github.com/epfl-ada/DataCluedo.git -b even
 ## Submit your solutions
 Once you are done, 
 
-(i) you can submit your solutions for attempt 1 [using this form](https://goo.gl/forms/vANWUZRVozLlZPnd2)
-(ii) you can submit your solutions for attempt 2 [using this form](https://goo.gl/forms/5cnCf4wUkS1sAkYg1)
+* you can submit your solutions for attempt 1 [using this form](https://goo.gl/forms/vANWUZRVozLlZPnd2)
+* you can submit your solutions for attempt 2 [using this form](https://goo.gl/forms/5cnCf4wUkS1sAkYg1)
 
 We recommend you to work on the notebooks in order (i.e., they are numbered from 1 to 2) and submit as many as you can by the end of the lab session. In case you won't be able to complete all of them, please submit regardless. We will keep the form open for an additional day or two, so you can update your submission later on (as the submission form supports updates and edits).
