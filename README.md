@@ -28,7 +28,7 @@ This repository contains eight main branches:
 
 plus the master branch which contains this README.md file. Select one of the eight branches, and begin to solve each notebook following the ordering of the filenames (from 1 to 2). 
 
-## Your sequence of solving the workbooks should be the following. 
+## Your sequence of solving the workbooks should be the following: 
 * 1_attempt1.ipynb
 * 1_attempt2.ipynb
 * 2_attempt1.ipynb
