@@ -48,6 +48,6 @@ Once you are done with solving all the 4 workbooks, you can
 * upload and submit your solutions for attempt 1 [using this form](https://goo.gl/forms/sLBd48WoZDv9KmRt1)
 * upload and submit your solutions for attempt 2 [using this form](https://goo.gl/forms/5cnCf4wUkS1sAkYg1)
 
-## Fill the task experience questionnaire 
+## Tell us your task experience
 Once you are done submitting all the 4 workbooks, you can 
-* tell us your task experiences [using this form](https://goo.gl/forms/oVgnRkdF9EA7vQto1)
+* fill a short task experience questionnaire [using this form](https://goo.gl/forms/oVgnRkdF9EA7vQto1)
