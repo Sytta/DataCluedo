@@ -12,10 +12,9 @@ Also, your performance on DataCluedo **will not count towards your final ADA gra
 
 ## What is DataCluedo?
 
-DataCluedo is a small collection of iPython Notebooks, where the data scientist faces seemingly trivial analysis tasks. Most of the analysis is already included in the notebook, so the main effort goes towards reading carefully the instructions, and writing no more than a handful lines of code per notebook. Each notebook is split in 3 sections:
+DataCluedo is a small collection of iPython Notebooks, where the data scientist faces seemingly trivial analysis tasks. Most of the analysis is already included in the notebook, so the main effort goes towards reading carefully the instructions, and writing no more than a handful lines of code per notebook. Each notebook is split in 2 sections:
 1. an initial set of pre-filled cells, that the data scientist should evaluate just to load the needed variables and modules in memory
-2. **Attempt 1 -->** a middle section (with at least an empty cell) where the data scientist can perform the initial analysis
-3. **Attempt 2 -->** a closing section, where the data scientist has the opportunity to present a new analysis (if deemed necessary).
+2. a closing section where the data scientist can perform required analyses, and generate insights about the data
 
 
 ## Getting Started
@@ -29,13 +28,13 @@ This repository contains eight main branches:
 * branch `seven`, for students who are assigned to grouping 7
 * branch `eight`, for students who are assigned to grouping 8
 
-plus the master branch which contains this README.md file. Select one of the eight branches, and begin to solve each notebook following the ordering of the filenames (from 1 to 2). 
+plus the master branch which contains this README.md file. Select one of the eight branches, and begin to solve each notebook following the ordering of the filenames (from Q1 to Q4). 
 
 ## Your sequence of solving the workbooks should be the following: 
-* 1_attempt1.ipynb
-* 1_attempt2.ipynb
-* 2_attempt1.ipynb
-* 2_attempt2.ipynb
+* Q1.ipynb
+* Q2.ipynb
+* Q3.ipynb
+* Q4.ipynb
 
 **Please strictly follow this order!!**
 
@@ -47,9 +46,4 @@ e.g., git clone https://github.com/epfl-ada/DataCluedo.git -b two
 
 ## Submit your solutions
 Once you are done with solving all the 4 workbooks, you can 
-* upload and submit your solutions for attempt 1 [using this form](https://goo.gl/forms/sLBd48WoZDv9KmRt1)
-* upload and submit your solutions for attempt 2 [using this form](https://goo.gl/forms/5cnCf4wUkS1sAkYg1)
-
-## Tell us your task experience
-Once you are done submitting all the 4 workbooks, you can 
-* fill a short task experience questionnaire [using this form](https://goo.gl/forms/oVgnRkdF9EA7vQto1)
+* upload and submit your solutions [using this form](https://goo.gl/forms/3sJDr2CAEJcdrX912)
