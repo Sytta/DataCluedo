@@ -1,6 +1,6 @@
 # DataCluedo
 
-**DataCluedo is a hands-on activity session that will help you prepare for learning from lecture in the following week!!**
+**DataCluedo is a hands-on activity session where you have the opportunity to actually apply data science concepts learnt in lecture!!**
 It is also an exercise session in preparation for the ADA final exam. We developed it with two goals in mind:
 * as a self-assessment tool for students, to they can understand their readiness for the fast-paced data analysis required during the final exam
 * as a way for the teaching team to design a better-suited final exam, based on the statistics and performance gathered from DataCluedo
